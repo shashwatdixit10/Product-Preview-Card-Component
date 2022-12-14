@@ -1,0 +1,104 @@
+body{
+    text-align: center;
+    background-color: hsl(30, 38%, 92%) ;
+}
+div{
+    background-color: rgb(248, 248, 248);
+    border-radius: 2%;
+    border-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 492px;
+    height: 377px;
+    margin: auto;
+    margin-top: 12%;
+    
+}
+div .image1{
+    width: 51%;
+    justify-content: center;
+    margin-right: 49%;
+    border-radius: 2%;
+}
+.perfume{
+    text-align: center;
+    letter-spacing: 5px;
+    position: relative;
+    bottom: 514px;
+    left: 86px;
+    font-display: thin;
+    font-family: Montserrat;
+}
+.gab{
+    position: relative;
+    font-family: Fraunces;
+    bottom: 85%;
+    left: 19%;
+}
+.ess{
+    position: relative;
+    font-family: Fraunces;
+    bottom: 90%;
+    left: 23%;
+}
+.de{
+    position: relative;
+    font-family: Fraunces;
+    bottom: 95%;
+    left: 21%;
+}
+pre{
+    position: relative;
+    font-family: Montserrat;
+    bottom: 409px;
+    left: 101px;
+}
+div .price{
+    position: relative;
+    bottom: 437px;
+    left: 84px;
+    color: hsl(158, 36%, 37%);
+    font-family: Fraunces;
+}
+div .oldprice{
+    position: relative;
+    bottom: 485px;
+    left: 188px;
+    font-family: Montserrat;
+    text-decoration: line-through;
+
+}
+    .btn {
+        position: relative;
+        background: hsl(158, 36%, 37%);
+        background-image: -webkit-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        background-image: -moz-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        background-image: -ms-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        background-image: -o-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        background-image: linear-gradient(to bottom, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        -webkit-border-radius: 9;
+        -moz-border-radius: 9;
+        border-radius: 9px;
+        border-color:hsl(158, 36%, 37%) ;
+        border-bottom-color:hsl(158, 36%, 37%) ;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 14px;
+        padding: 10px 20px 10px 20px;
+        border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    bottom: 130%;
+    left: 26%;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: hsl(158, 36%, 37%);
+        background-image: -webkit-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        background-image: -moz-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        background-image: -ms-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        background-image: -o-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        background-image: linear-gradient(to bottom, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+        text-decoration: none;
+      }
